@@ -1,0 +1,7 @@
+.myBox{
+    height: 450px;
+    border: 2px solid greenyellow;
+    padding: 15px;
+    overflow:scroll;
+    scroll-behavior: auto;
+}
